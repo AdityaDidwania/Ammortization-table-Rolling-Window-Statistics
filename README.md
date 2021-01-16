@@ -19,7 +19,7 @@ Created a Python program which:
 weekly window, while inputting a 20 is a monthly window, etc. Make sure that the
 input is valid. For instance, if a user inputs 400, this would be impossible because not
 enough data exists.
-Over the rolling window, computed 
+* Over the rolling window, computed 
   * Range: max - min
   * Mean: average
   * Median: 50th percentile
